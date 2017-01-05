@@ -1,2 +1,3 @@
+Autor: Luis Taborda
 # taller-frontend
-taller
+taller profecional de frontend
